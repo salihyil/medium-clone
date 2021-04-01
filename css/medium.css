@@ -1,0 +1,29 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+.nav-yellow {
+    background: #FFC017;
+}
+.border-bottom-dark {
+     border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.iu {
+    background-image: url(https://miro.medium.com/max/481/1*qcAZgT4Sk37MPSTGBH2KUw.png);
+}
+.cy {
+    background-size: 385px 341px;
+}
+.dc {
+    background-position: bottom 1px right 80px;
+}
+.cx {
+    background-repeat: no-repeat;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+.article-pictures >ul> li {
+    padding: 0px;
+    margin-bottom: 10px;
+}
